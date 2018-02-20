@@ -72,7 +72,7 @@
     <compactLayouts>
         <fullName>HEDA_Account_Compact_Layout</fullName>
         <fields>Name</fields>
-        <fields>RecordTypeId</fields>
+        <!-- <fields>RecordTypeId</fields> -->
         <fields>ParentId</fields>
         <fields>Website</fields>
         <label>HEDA Account Compact Layout</label>

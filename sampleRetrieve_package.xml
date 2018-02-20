@@ -10,11 +10,102 @@
     </types>
 	<types>
 	    <members>*</members>
+        <members>Account</members>
+        <members>Contact</members>
 	    <name>CustomObject</name>
+	</types>
+    <types>
+        <name>ContentAsset</name>
+        <members>*</members>
+    </types>
+    <types>
+        <name>FlexiPage</name>
+        <members>*</members>
+    </types>
+    <types>
+        <name>Flow</name>
+        <members>*</members>
+    </types>
+    <types>
+	    <members>*</members>
+	    <name>CustomObjectTranslation</name>
+	</types>
+    <types>
+	    <members>*</members>
+	    <name>CustomField</name>
+	</types>
+    <types>
+	    <members>*</members>
+	    <name>CustomLabel</name>
+	</types>
+    <types>
+	    <members>*</members>
+	    <name>CustomLabels</name>
 	</types>
 	<types>
 	    <members>*</members>
 	    <name>CompactLayout</name>
 	</types>
+    <types>
+	    <members>*</members>
+	    <name>AuraDefinitionBundle</name>
+	</types>
+    <types>
+	    <members>*</members>
+	    <name>ApexClass</name>
+	</types>
+    <types>
+    <name>Layout</name>
+        <members>*</members>
+    </types>
+    <types>
+	    <members>*</members>
+	    <name>ApexPage</name>
+	</types>
+    <types>
+	    <members>*</members>
+	    <name>ApexTrigger</name>
+	</types>
+    <types>
+	    <members>*</members>
+	    <name>Translations</name>
+	</types>
+    <types>
+	    <members>*</members>
+	    <name>ListView</name>
+	</types>
+    <types>
+        <members>*</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
+        <name>RecordType</name>
+        <members>*</members>
+    </types>
+    <types>
+        <name>PathAssistant</name>
+        <members>*</members>
+    </types>
+    <types>
+        <name>PermissionSet</name>
+        <members>*</members>
+    </types>
+    <types>
+        <name>QuickAction</name>
+        <members>*</members>
+    </types>
+    <types>
+        <name>RemoteSiteSetting</name>
+        <members>*</members>
+    </types>
+    <types>
+        <name>StaticResource</name>
+        <members>*</members>
+    </types>
+    <types>
+        <name>CustomTab</name>
+        <members>*</members>
+    </types>
+
     <version>39.0</version>
 </Package>
