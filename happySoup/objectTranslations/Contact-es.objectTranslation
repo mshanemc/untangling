@@ -3438,7 +3438,7 @@
         <name>HIPAA__c</name>
     </fields>
     <fields>
-        <label><!-- Location --></label>
+        <label>Ubicación</label>
         <name>Location__c</name>
     </fields>
     <fields>
