@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Determines if an Affiliation will be automatically deleted when the related Program Enrollment is deleted. Otherwise the status will be changed to Former. --></help>
+    <label><!-- Affiliation Program Enrollment deletion --></label>
+    <name>Affl_ProgEnroll_Del__c</name>
+</CustomFieldTranslation>

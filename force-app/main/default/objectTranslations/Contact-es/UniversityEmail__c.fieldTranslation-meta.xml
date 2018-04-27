@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Correo electrónico oficial de la Universidad.</help>
+    <label>Correo electrónico en la universidad</label>
+    <name>UniversityEmail__c</name>
+</CustomFieldTranslation>

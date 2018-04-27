@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Fórmula: Si el tipo de dirección principal es Trabajo, la dirección de correo. Si el tipo de dirección secundaria es Trabajo, la otra dirección.</help>
+    <label>Dirección laboral</label>
+    <name>Work_Address__c</name>
+</CustomFieldTranslation>

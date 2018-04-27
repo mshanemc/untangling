@@ -1,7 +1,8 @@
 {
     "orgName": "shane.mclaughlin Company",
     "edition": "Developer",
+    "features" : ["ExternalSharing"],
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled", "Translation"]
+        "enabled": ["S1DesktopEnabled", "Translation", "PathAssistantsEnabled"]
     }
 }

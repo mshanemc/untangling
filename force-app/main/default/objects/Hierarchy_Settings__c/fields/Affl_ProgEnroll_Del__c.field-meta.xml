@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Affl_ProgEnroll_Del__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Determines if an Affiliation will be automatically deleted when the related Program Enrollment is deleted. Otherwise the status will be changed to Former.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Determines if an Affiliation will be automatically deleted when the related Program Enrollment is deleted. Otherwise the status will be changed to Former.</inlineHelpText>
+    <label>Affiliation Program Enrollment deletion</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

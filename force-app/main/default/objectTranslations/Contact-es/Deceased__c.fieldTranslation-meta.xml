@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Cuando se selecciona, esta opción marca el contacto como fallecido y lo excluye del nombre del domicilio, los mensajes de correo electrónico y las llamadas telefónicas.</help>
+    <label>Fallecido</label>
+    <name>Deceased__c</name>
+</CustomFieldTranslation>

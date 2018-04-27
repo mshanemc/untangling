@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Enable_Course_Connections__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Enables Course Connections. Requires that at least two record types exist for Course Connections to be used for the default Active Student and Faculty.</description>
+    <externalId>false</externalId>
+    <label>Enable Course Connections</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

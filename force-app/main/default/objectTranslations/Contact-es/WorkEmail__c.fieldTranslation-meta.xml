@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Muestra el campo Correo electrónico de preferencia.</help>
+    <label>Correo electrónico laboral</label>
+    <name>WorkEmail__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Auto_Program_Enrollment__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>If checked, a Program Enrollment record will be automatically created when the user creates an Affiliation to an Account of this type.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>If checked, a Program Enrollment record will be automatically created when the user creates an Affiliation to an Account of this type.</inlineHelpText>
+    <label>Auto Enrollment</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -103,7 +103,6 @@
     </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
-    <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
         <trackFeedHistory>true</trackFeedHistory>
@@ -4487,10 +4486,6 @@
         <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>FirstNameLocal</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
         <fullName>Gender__c</fullName>
         <externalId>false</externalId>
         <label>Gender</label>
@@ -4551,10 +4546,6 @@
     </fields>
     <fields>
         <fullName>LastCUUpdateDate</fullName>
-    </fields>
-    <fields>
-        <fullName>LastNameLocal</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>LeadSource</fullName>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Account record type that supports Household Addresses behavior. --></help>
+    <label><!-- Household Addresses Acc Record Type --></label>
+    <name>Household_Addresses_RecType__c</name>
+</CustomFieldTranslation>

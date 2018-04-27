@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>El programa en el que el estudiante está inscrito. Une a un estudiante con un programa académico.</help>
+    <label>Id. de inscripción del programa</label>
+    <name>Program_Enrollment__c</name>
+    <relationshipLabel>Conexiones al curso</relationshipLabel>
+</CustomFieldTranslation>

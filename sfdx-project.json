@@ -3,6 +3,12 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "DX_HEDA"
+    },
+    {
+      "path": "DX_Dreamhouse"
     }
   ],
   "namespace": "",

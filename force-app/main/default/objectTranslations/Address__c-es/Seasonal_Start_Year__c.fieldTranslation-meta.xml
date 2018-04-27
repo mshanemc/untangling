@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>El año en el que esta dirección reemplaza a la dirección predeterminada.</help>
+    <label>Año de inicio de estacional</label>
+    <name>Seasonal_Start_Year__c</name>
+</CustomFieldTranslation>

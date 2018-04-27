@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Marque esta opción si tiene intención de gestionar el registro usted mismo. Tenga en cuenta que las actualizaciones del paquete no actualizarán el registro.</help>
+    <label>Gestionado por usuario</label>
+    <name>User_Managed__c</name>
+</CustomFieldTranslation>
